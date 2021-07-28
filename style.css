@@ -27,5 +27,5 @@ h1{
 }
 .container:hover{
     background: rgb(250, 81, 109);
-    box-shadow: 0px 0px 30px black, 0px 0px 30px rgb(117, 111, 111);
+    
 }
